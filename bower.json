@@ -1,0 +1,23 @@
+{
+  "name": "min-max-font-size",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nathanford/min-max-font-size",
+  "authors": [
+    "Nick Schappler <nick@uhray.com>"
+  ],
+  "description": "\"Stylefill allowing you to set min/max font-sizes in CSS\"",
+  "main": "./js/mm-fontsize.js",
+  "keywords": [
+    "min-font-size",
+    "max-font-size",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
